@@ -1,0 +1,8 @@
+*{margin:0; padding:0;}
+.clearfix:after{ height:0; display:block; content:'.'; visibility:hidden; clear:both;}
+.clear{height:0; line-height:0; font-size:0; display:block; clear:both;}
+ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,table,ol,label,fieldset,section,aside,header,footer,audio,video{display:block;}
+ul{list-style:none;}
+img{border:0; display:block;}
+a{text-decoration:none; outline:none; display:block;}
+body{background:#fafafa; font-family:"微软雅黑";}
